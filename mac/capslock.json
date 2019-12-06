@@ -123,9 +123,8 @@
           },
           "to": [
             {
-              "key_code": "tab",
+              "key_code": "left_arrow",
               "modifiers": [
-                "left_control",
                 "left_shift"
               ]
             }
@@ -234,9 +233,9 @@
           },
           "to": [
             {
-              "key_code": "tab",
+              "key_code": "down_arrow",
               "modifiers": [
-                "left_command"
+                "left_shift"
               ]
             }
           ],
@@ -344,9 +343,8 @@
           },
           "to": [
             {
-              "key_code": "tab",
+              "key_code": "up_arrow",
               "modifiers": [
-                "left_command",
                 "left_shift"
               ]
             }
@@ -455,9 +453,9 @@
           },
           "to": [
             {
-              "key_code": "tab",
+              "key_code": "right_arrow",
               "modifiers": [
-                "left_control"
+                "left_shift"
               ]
             }
           ],
@@ -529,7 +527,7 @@
             "key_code": "h",
             "modifiers": {
               "mandatory": [
-                "left_command",
+                "left_shift",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -571,7 +569,7 @@
             "key_code": "semicolon",
             "modifiers": {
               "mandatory": [
-                "left_command",
+                "left_shift",
                 "right_command",
                 "right_control",
                 "right_shift",
